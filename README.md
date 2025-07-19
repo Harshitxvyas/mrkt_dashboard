@@ -13,7 +13,7 @@ This project is a real-time product and marketing analytics dashboard designed t
   Displays ad performance and conversion metrics segmented by traffic source, platform, and date.
 
 - **Filterable Views and Date Ranges**  
-  Enables user segmentation by channel, campaign type, region, and time window.
+  Enables user segmentation by channel, campaign type, funnel type, and time window.
 
 ---
 
